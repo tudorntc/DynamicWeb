@@ -1,7 +1,6 @@
 function firstButton(){
     fib = document.getElementById("fb");
     fip = document.getElementById("fp");
-       
 };
 
 function secondButton(){
